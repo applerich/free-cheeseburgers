@@ -1,0 +1,15 @@
+{
+  "name": "cheeseburgers",
+  "version": "1.0.1",
+  "description": "Free cheeseburger script from Habit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "free",
+    "bugers"
+  ],
+  "author": "loganio",
+  "license": "ISC"
+}
