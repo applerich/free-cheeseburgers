@@ -10,7 +10,7 @@ cd free-cheeseburgers
 npm install # sudo npm install if you're on macOS
 
 ```
-##After Installing
+## After Installing
 
 Open config.json and paste proxies and catchall
 
