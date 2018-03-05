@@ -27,7 +27,7 @@ Open config.json and paste proxies and catchall
   "http://ip:port"
   "http://127.121.114.3:23082"
   ```
-  **_ EACH PROXY MUST BE FOLLOWED BY A COMMA , EXCEPT THE LAST ONE _**
+  **_Each proxy MUST be followed by a comma, EXCEPT the last one_**
   
   **Example Config File**
   ```
